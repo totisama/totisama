@@ -3,7 +3,7 @@
 
 ### ✨&nbsp; About Me
 
-My name is Rodrigo Samayoa, I am a passionate FrontEnd Developer from Guatemala 🇬🇹 living in Spain 🇪🇸 with 4 years of experience in developing enterprise applications and personal projects. I'm currently studying a Master degree in Advanced Programming for AAA Video Games in Barcelona.
+My name is Rodrigo Samayoa, I am a passionate Developer from Guatemala 🇬🇹 living in Spain 🇪🇸 with 3 years of experience in developing enterprise applications and personal projects. I'm currently studying a Master's degree in Advanced Programming for AAA Video Games in Barcelona.
 I'm always seeking for new things to learn and try. During my free time I like to play videogames and sports, listen to musics, spend time with my family and friends and work on personal projects.
 At this point of my career I’m looking to expand my knowledge and challenge myself to excel in different environments.
 
@@ -41,7 +41,3 @@ At this point of my career I’m looking to expand my knowledge and challenge my
 <img align="left" alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://static.itch.io/images/itchio-textless-black.svg" />
 
 [itch.io](https://totisama.itch.io)
-
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=totisama)](https://git.io/streak-stats)

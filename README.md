@@ -37,7 +37,3 @@ At this point of my career I’m looking to expand my knowledge and challenge my
 <img align="left" alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
 [LikedIn](https://www.linkedin.com/in/rodrigo-samayoa-526916196/)
-
-<img align="left" alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://static.itch.io/images/itchio-textless-black.svg" />
-
-[itch.io](https://totisama.itch.io)
